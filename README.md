@@ -1,4 +1,4 @@
-## Let's to talk about me! 😀
+## Let's talk about me! 😀
 
 - 🔭 I’m currently working as manager to build tech solutions.
 - 🌱 I’m currently learning english, Flutter framework and microservices.
