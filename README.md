@@ -15,6 +15,7 @@ Today, I am a mid-level backend and mobile developer with experience in Java, PH
   <img align="center" alt="Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
   <img align="center" alt="Codeigniter" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
   <img align="center" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Delphi" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
   <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
